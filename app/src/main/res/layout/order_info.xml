@@ -1,0 +1,168 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="com.example.majorcat.kursach_separated_jsonpart.OrderInfo">
+
+    <TextView
+        android:id="@+id/info"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentStart="true"
+        android:layout_alignParentTop="true"
+        android:text="Информация о заказе:"
+        android:textAppearance="@style/TextAppearance.AppCompat.Display1"
+        android:textSize="25sp"/>
+
+    <TextView
+        android:id="@+id/aboutid"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="id заказа: "
+        android:layout_below="@+id/info"
+        android:paddingLeft="4dp"
+        />
+
+    <TextView
+        android:id="@+id/id"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="142"
+        android:layout_below="@+id/info"
+        android:layout_toEndOf="@+id/aboutid"
+        />
+
+    <TextView
+        android:id="@+id/aboutaddres"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Адрес доставки: "
+        android:layout_below="@+id/aboutid"
+        android:paddingLeft="4dp"
+        />
+
+    <TextView
+        android:id="@+id/address"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Москва, Улица 25"
+        android:layout_alignBottom="@+id/aboutaddres"
+        android:layout_toEndOf="@+id/aboutaddres" />
+
+    <TextView
+        android:id="@+id/aboutappartament"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Квартира: "
+        android:layout_below="@+id/aboutaddres"
+        android:paddingLeft="4dp"
+        />
+
+    <TextView
+        android:id="@+id/appartament"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="15"
+        android:layout_below="@+id/aboutaddres"
+        android:layout_toEndOf="@+id/aboutappartament" />
+
+    <TextView
+        android:id="@+id/aboutbywhom"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="От кого: "
+        android:layout_below="@+id/aboutappartament"
+        android:paddingLeft="4dp"
+        />
+
+    <TextView
+        android:id="@+id/bywhom"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Фамилия Имя Отчество"
+        android:layout_alignBaseline="@+id/aboutbywhom"
+        android:layout_alignBottom="@+id/aboutbywhom"
+        android:layout_toEndOf="@+id/aboutbywhom" />
+
+    <TextView
+        android:id="@+id/aboutowhom"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Кому: "
+        android:layout_below="@+id/aboutbywhom"
+        android:paddingLeft="4dp"
+        />
+
+    <TextView
+        android:id="@+id/towhom"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Константинов К.К."
+        android:layout_alignBaseline="@+id/aboutowhom"
+        android:layout_alignBottom="@+id/aboutowhom"
+        android:layout_toEndOf="@+id/aboutowhom" />
+
+    <TextView
+        android:id="@+id/aboutgood"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Товар: "
+        android:layout_below="@+id/aboutowhom"
+        android:paddingLeft="4dp"
+        />
+
+    <TextView
+        android:id="@+id/good"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Товар #15124"
+        android:layout_alignBaseline="@+id/aboutgood"
+        android:layout_alignBottom="@+id/aboutgood"
+        android:layout_toEndOf="@+id/aboutgood" />
+
+    <TextView
+        android:id="@+id/aboutdesctiption"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Описание: "
+        android:layout_below="@+id/aboutgood"
+        android:paddingLeft="4dp"
+        />
+
+    <TextView
+        android:id="@+id/description"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Большое текстовое поле, где может быть много строк, которые и написанны здесь,
+         чтобы протестировать как всё это работает"
+        android:layout_alignBaseline="@+id/aboutdesctiption"
+        android:layout_alignBottom="@+id/aboutdesctiption"
+        android:layout_toEndOf="@+id/aboutappartament" />
+
+    <TextView
+        android:id="@+id/isdelivered"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="не доставлено"
+        android:layout_alignBaseline="@+id/aboutisdelivered"
+        android:layout_alignBottom="@+id/aboutisdelivered"
+        android:layout_toEndOf="@+id/aboutisdelivered" />
+
+    <TextView
+        android:id="@+id/aboutisdelivered"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Статус доставки: "
+        android:layout_below="@+id/description"
+        android:layout_alignParentStart="true"
+        android:paddingLeft="4dp"/>
+    <Button
+        android:id="@+id/makeRouteBtn"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        android:layout_alignParentEnd="true"
+        android:text="Построить маршрут" />
+</RelativeLayout>

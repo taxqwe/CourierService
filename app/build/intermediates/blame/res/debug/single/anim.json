@@ -1,0 +1,70 @@
+[
+    {
+        "merged": "D:\\AndroidStudioProjects\\Kursach_Separated_JSONPart\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_in_top.xml",
+        "source": "C:\\Users\\Nikolay\\.android\\build-cache\\b0a6b91c6aea338f4f15e38c5711bc8aa89f1d11\\output\\res\\anim\\abc_slide_in_top.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\Kursach_Separated_JSONPart\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_fade_in.xml",
+        "source": "C:\\Users\\Nikolay\\.android\\build-cache\\b0a6b91c6aea338f4f15e38c5711bc8aa89f1d11\\output\\res\\anim\\abc_fade_in.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\Kursach_Separated_JSONPart\\app\\build\\intermediates\\res\\merged\\debug\\anim\\design_fab_out.xml",
+        "source": "C:\\Users\\Nikolay\\.android\\build-cache\\76b09c881a55b44f92cb479a306423042483654c\\output\\res\\anim\\design_fab_out.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\Kursach_Separated_JSONPart\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_grow_fade_in_from_bottom.xml",
+        "source": "C:\\Users\\Nikolay\\.android\\build-cache\\b0a6b91c6aea338f4f15e38c5711bc8aa89f1d11\\output\\res\\anim\\abc_grow_fade_in_from_bottom.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\Kursach_Separated_JSONPart\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_fade_out.xml",
+        "source": "C:\\Users\\Nikolay\\.android\\build-cache\\b0a6b91c6aea338f4f15e38c5711bc8aa89f1d11\\output\\res\\anim\\abc_fade_out.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\Kursach_Separated_JSONPart\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_popup_exit.xml",
+        "source": "C:\\Users\\Nikolay\\.android\\build-cache\\b0a6b91c6aea338f4f15e38c5711bc8aa89f1d11\\output\\res\\anim\\abc_popup_exit.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\Kursach_Separated_JSONPart\\app\\build\\intermediates\\res\\merged\\debug\\anim\\popup_enter.xml",
+        "source": "C:\\Users\\Nikolay\\.android\\build-cache\\ce8fa84cff2e89168302a1e15a0000a0f4c1144f\\output\\res\\anim\\popup_enter.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\Kursach_Separated_JSONPart\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_in_bottom.xml",
+        "source": "C:\\Users\\Nikolay\\.android\\build-cache\\b0a6b91c6aea338f4f15e38c5711bc8aa89f1d11\\output\\res\\anim\\abc_slide_in_bottom.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\Kursach_Separated_JSONPart\\app\\build\\intermediates\\res\\merged\\debug\\anim\\design_fab_in.xml",
+        "source": "C:\\Users\\Nikolay\\.android\\build-cache\\76b09c881a55b44f92cb479a306423042483654c\\output\\res\\anim\\design_fab_in.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\Kursach_Separated_JSONPart\\app\\build\\intermediates\\res\\merged\\debug\\anim\\design_snackbar_out.xml",
+        "source": "C:\\Users\\Nikolay\\.android\\build-cache\\76b09c881a55b44f92cb479a306423042483654c\\output\\res\\anim\\design_snackbar_out.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\Kursach_Separated_JSONPart\\app\\build\\intermediates\\res\\merged\\debug\\anim\\decelerate_cubic.xml",
+        "source": "C:\\Users\\Nikolay\\.android\\build-cache\\ce8fa84cff2e89168302a1e15a0000a0f4c1144f\\output\\res\\anim\\decelerate_cubic.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\Kursach_Separated_JSONPart\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_out_top.xml",
+        "source": "C:\\Users\\Nikolay\\.android\\build-cache\\b0a6b91c6aea338f4f15e38c5711bc8aa89f1d11\\output\\res\\anim\\abc_slide_out_top.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\Kursach_Separated_JSONPart\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_shrink_fade_out_from_bottom.xml",
+        "source": "C:\\Users\\Nikolay\\.android\\build-cache\\b0a6b91c6aea338f4f15e38c5711bc8aa89f1d11\\output\\res\\anim\\abc_shrink_fade_out_from_bottom.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\Kursach_Separated_JSONPart\\app\\build\\intermediates\\res\\merged\\debug\\anim\\popup_exit.xml",
+        "source": "C:\\Users\\Nikolay\\.android\\build-cache\\ce8fa84cff2e89168302a1e15a0000a0f4c1144f\\output\\res\\anim\\popup_exit.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\Kursach_Separated_JSONPart\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_popup_enter.xml",
+        "source": "C:\\Users\\Nikolay\\.android\\build-cache\\b0a6b91c6aea338f4f15e38c5711bc8aa89f1d11\\output\\res\\anim\\abc_popup_enter.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\Kursach_Separated_JSONPart\\app\\build\\intermediates\\res\\merged\\debug\\anim\\design_snackbar_in.xml",
+        "source": "C:\\Users\\Nikolay\\.android\\build-cache\\76b09c881a55b44f92cb479a306423042483654c\\output\\res\\anim\\design_snackbar_in.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\Kursach_Separated_JSONPart\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_out_bottom.xml",
+        "source": "C:\\Users\\Nikolay\\.android\\build-cache\\b0a6b91c6aea338f4f15e38c5711bc8aa89f1d11\\output\\res\\anim\\abc_slide_out_bottom.xml"
+    }
+]

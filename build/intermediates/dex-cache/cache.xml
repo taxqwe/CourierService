@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="D:\AndroidStudioProjects\Kursach_Separated_JSONPart\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="caff8e51a24901cfc9cd7e1cf83d84f4cb0c103b">
+        <dex dex="D:\AndroidStudioProjects\Kursach_Separated_JSONPart\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_25c7cde05ec77a75aed017c80c33f38f0e78e0e9\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Nikolay\.android\build-cache\ce8fa84cff2e89168302a1e15a0000a0f4c1144f\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="9715585867480e9916e0ce284ac52697678afe4c">
+        <dex dex="D:\AndroidStudioProjects\Kursach_Separated_JSONPart\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_bd3cdcd6222bc49a3783a0949f05ca4ff00431b5\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Nikolay\.android\build-cache\21be66594a1a657998a0fb0c11845cd5517e2101\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="c14d049dc46260da1c76a9d18672d0636c5964a0">
+        <dex dex="D:\AndroidStudioProjects\Kursach_Separated_JSONPart\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_0417cf6029008709fc8cbb1e66712fbab05ea720\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Nikolay\.android\build-cache\3556f9c012ec177dcd8cb56927198cf0ccf1c339\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="5a5cbc42192d2afde319e4babe59bf8e41a49d35">
+        <dex dex="D:\AndroidStudioProjects\Kursach_Separated_JSONPart\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_e787b6d7f98a4f7bbccbf8e85c27a2d6b16a7feb\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\AndroidStudioProjects\Kursach_Separated_JSONPart\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="84a8991cb41d6ef2d8ee9aab5c92444eac1d3dd4">
+        <dex dex="D:\AndroidStudioProjects\Kursach_Separated_JSONPart\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_69afef78e7434a15707497da595995838effa1a2\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Nikolay\.android\build-cache\5783a87310250b561ddc25f5f96a83d156054b4e\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="897b8239af23c38e7a57596063f9df285b1e1c41">
+        <dex dex="D:\AndroidStudioProjects\Kursach_Separated_JSONPart\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_a254f8aa2d4441c17433b8935abb70f58835f157\classes.dex" />
+    </item>
+
+</items>

@@ -1,0 +1,7 @@
+#Wed Jul 05 16:55:05 MSK 2017
+base.0=D\:\\AndroidStudioProjects\\Kursach_Separated_JSONPart\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_25c7cde05ec77a75aed017c80c33f38f0e78e0e9
+renamed.1=classes2.dex
+renamed.0=classes.dex
+file.1=D\:\\AndroidStudioProjects\\Kursach_Separated_JSONPart\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_69afef78e7434a15707497da595995838effa1a2\\classes.dex
+base.1=D\:\\AndroidStudioProjects\\Kursach_Separated_JSONPart\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_69afef78e7434a15707497da595995838effa1a2
+file.0=D\:\\AndroidStudioProjects\\Kursach_Separated_JSONPart\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_25c7cde05ec77a75aed017c80c33f38f0e78e0e9\\classes.dex

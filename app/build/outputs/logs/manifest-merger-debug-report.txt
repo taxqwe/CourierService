@@ -1,0 +1,176 @@
+-- Merging decision tree log ---
+manifest
+ADDED from D:\AndroidStudioProjects\Kursach_Separated_JSONPart\app\src\main\AndroidManifest.xml:2:1-28:12
+	package
+		ADDED from D:\AndroidStudioProjects\Kursach_Separated_JSONPart\app\src\main\AndroidManifest.xml:3:5-62
+		INJECTED from D:\AndroidStudioProjects\Kursach_Separated_JSONPart\app\src\main\AndroidManifest.xml
+		INJECTED from D:\AndroidStudioProjects\Kursach_Separated_JSONPart\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from D:\AndroidStudioProjects\Kursach_Separated_JSONPart\app\src\main\AndroidManifest.xml
+		INJECTED from D:\AndroidStudioProjects\Kursach_Separated_JSONPart\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from D:\AndroidStudioProjects\Kursach_Separated_JSONPart\app\src\main\AndroidManifest.xml:2:11-69
+	android:versionCode
+		INJECTED from D:\AndroidStudioProjects\Kursach_Separated_JSONPart\app\src\main\AndroidManifest.xml
+		INJECTED from D:\AndroidStudioProjects\Kursach_Separated_JSONPart\app\src\main\AndroidManifest.xml
+uses-permission#android.permission.INTERNET
+ADDED from D:\AndroidStudioProjects\Kursach_Separated_JSONPart\app\src\main\AndroidManifest.xml:5:5-67
+MERGED from [org.osmdroid:osmdroid-android:5.6.4] C:\Users\Nikolay\.android\build-cache\21be66594a1a657998a0fb0c11845cd5517e2101\output\AndroidManifest.xml:20:5-67
+	android:name
+		ADDED from D:\AndroidStudioProjects\Kursach_Separated_JSONPart\app\src\main\AndroidManifest.xml:5:22-64
+uses-permission#android.permission.ACCESS_COARSE_LOCATION
+ADDED from D:\AndroidStudioProjects\Kursach_Separated_JSONPart\app\src\main\AndroidManifest.xml:6:5-80
+MERGED from [org.osmdroid:osmdroid-android:5.6.4] C:\Users\Nikolay\.android\build-cache\21be66594a1a657998a0fb0c11845cd5517e2101\output\AndroidManifest.xml:17:5-81
+	android:name
+		ADDED from D:\AndroidStudioProjects\Kursach_Separated_JSONPart\app\src\main\AndroidManifest.xml:6:22-78
+uses-permission#android.permission.ACCESS_FINE_LOCATION
+ADDED from D:\AndroidStudioProjects\Kursach_Separated_JSONPart\app\src\main\AndroidManifest.xml:7:5-78
+MERGED from [org.osmdroid:osmdroid-android:5.6.4] C:\Users\Nikolay\.android\build-cache\21be66594a1a657998a0fb0c11845cd5517e2101\output\AndroidManifest.xml:16:5-79
+	android:name
+		ADDED from D:\AndroidStudioProjects\Kursach_Separated_JSONPart\app\src\main\AndroidManifest.xml:7:22-76
+uses-permission#android.permission.LOCATION_HARDWARE
+ADDED from D:\AndroidStudioProjects\Kursach_Separated_JSONPart\app\src\main\AndroidManifest.xml:8:5-75
+	android:name
+		ADDED from D:\AndroidStudioProjects\Kursach_Separated_JSONPart\app\src\main\AndroidManifest.xml:8:22-73
+application
+ADDED from D:\AndroidStudioProjects\Kursach_Separated_JSONPart\app\src\main\AndroidManifest.xml:10:5-26:19
+MERGED from [com.github.MKergall:osmbonuspack:6.3] C:\Users\Nikolay\.android\build-cache\5783a87310250b561ddc25f5f96a83d156054b4e\output\AndroidManifest.xml:11:5-20
+MERGED from [com.android.support:design:25.0.0] C:\Users\Nikolay\.android\build-cache\76b09c881a55b44f92cb479a306423042483654c\output\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:transition:25.0.0] C:\Users\Nikolay\.android\build-cache\438e953a7d5deceb92db6355528d3a980ea3499c\output\AndroidManifest.xml:22:5-20
+MERGED from [com.afollestad.material-dialogs:core:0.9.4.4] C:\Users\Nikolay\.android\build-cache\ce8fa84cff2e89168302a1e15a0000a0f4c1144f\output\AndroidManifest.xml:13:5-20
+MERGED from [com.android.support:support-v13:25.3.1] C:\Users\Nikolay\.android\build-cache\6531a18c01bf5c160ebe76837c72b0eb41f8b27e\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:appcompat-v7:25.3.1] C:\Users\Nikolay\.android\build-cache\b0a6b91c6aea338f4f15e38c5711bc8aa89f1d11\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-v4:25.3.1] C:\Users\Nikolay\.android\build-cache\7a21fc31c896b5fe6b6ab72665e424d6b01d6a16\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-fragment:25.3.1] C:\Users\Nikolay\.android\build-cache\5386e3b172fa7e49fa3d37cebcc468db61c4269b\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-media-compat:25.3.1] C:\Users\Nikolay\.android\build-cache\b70b7ac436a69fd7e5db00e9705186d8cf979e9e\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-ui:25.3.1] C:\Users\Nikolay\.android\build-cache\fa756a8f628c5246bb2137b1354bf74ad3923b12\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-utils:25.3.1] C:\Users\Nikolay\.android\build-cache\9d2f21efa74c12fced10a704d37712fc9629a454\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] C:\Users\Nikolay\.android\build-cache\ac6aaf862f19e1a023f052167b4bf8ecd713cf6b\output\AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:support-vector-drawable:25.3.1] C:\Users\Nikolay\.android\build-cache\84b878cb516eb9923f0b81cf6e64d8b5645646be\output\AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:support-compat:25.3.1] C:\Users\Nikolay\.android\build-cache\50d356742aed0c461312175ad5063c6ce5eb17ec\output\AndroidManifest.xml:29:5-20
+	android:label
+		ADDED from D:\AndroidStudioProjects\Kursach_Separated_JSONPart\app\src\main\AndroidManifest.xml:13:9-53
+	android:supportsRtl
+		ADDED from D:\AndroidStudioProjects\Kursach_Separated_JSONPart\app\src\main\AndroidManifest.xml:15:9-35
+	android:roundIcon
+		ADDED from D:\AndroidStudioProjects\Kursach_Separated_JSONPart\app\src\main\AndroidManifest.xml:14:9-54
+	android:allowBackup
+		ADDED from D:\AndroidStudioProjects\Kursach_Separated_JSONPart\app\src\main\AndroidManifest.xml:11:9-35
+	android:icon
+		ADDED from D:\AndroidStudioProjects\Kursach_Separated_JSONPart\app\src\main\AndroidManifest.xml:12:9-43
+	android:theme
+		ADDED from D:\AndroidStudioProjects\Kursach_Separated_JSONPart\app\src\main\AndroidManifest.xml:16:9-40
+activity#com.example.majorcat.kursach_separated_jsonpart.MainActivity
+ADDED from D:\AndroidStudioProjects\Kursach_Separated_JSONPart\app\src\main\AndroidManifest.xml:17:9-23:20
+	android:name
+		ADDED from D:\AndroidStudioProjects\Kursach_Separated_JSONPart\app\src\main\AndroidManifest.xml:17:19-47
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from D:\AndroidStudioProjects\Kursach_Separated_JSONPart\app\src\main\AndroidManifest.xml:18:13-22:29
+action#android.intent.action.MAIN
+ADDED from D:\AndroidStudioProjects\Kursach_Separated_JSONPart\app\src\main\AndroidManifest.xml:19:17-69
+	android:name
+		ADDED from D:\AndroidStudioProjects\Kursach_Separated_JSONPart\app\src\main\AndroidManifest.xml:19:25-66
+category#android.intent.category.LAUNCHER
+ADDED from D:\AndroidStudioProjects\Kursach_Separated_JSONPart\app\src\main\AndroidManifest.xml:21:17-77
+	android:name
+		ADDED from D:\AndroidStudioProjects\Kursach_Separated_JSONPart\app\src\main\AndroidManifest.xml:21:27-74
+activity#com.example.majorcat.kursach_separated_jsonpart.OrderInfo
+ADDED from D:\AndroidStudioProjects\Kursach_Separated_JSONPart\app\src\main\AndroidManifest.xml:24:9-47
+	android:name
+		ADDED from D:\AndroidStudioProjects\Kursach_Separated_JSONPart\app\src\main\AndroidManifest.xml:24:19-44
+activity#com.example.majorcat.kursach_separated_jsonpart.MapActivity
+ADDED from D:\AndroidStudioProjects\Kursach_Separated_JSONPart\app\src\main\AndroidManifest.xml:25:9-58
+	android:name
+		ADDED from D:\AndroidStudioProjects\Kursach_Separated_JSONPart\app\src\main\AndroidManifest.xml:25:19-46
+uses-sdk
+INJECTED from D:\AndroidStudioProjects\Kursach_Separated_JSONPart\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+MERGED from [com.github.MKergall:osmbonuspack:6.3] C:\Users\Nikolay\.android\build-cache\5783a87310250b561ddc25f5f96a83d156054b4e\output\AndroidManifest.xml:7:5-9:41
+MERGED from [org.osmdroid:osmdroid-android:5.6.4] C:\Users\Nikolay\.android\build-cache\21be66594a1a657998a0fb0c11845cd5517e2101\output\AndroidManifest.xml:7:5-9:41
+MERGED from [com.android.support:design:25.0.0] C:\Users\Nikolay\.android\build-cache\76b09c881a55b44f92cb479a306423042483654c\output\AndroidManifest.xml:21:5-23:62
+MERGED from [com.android.support:transition:25.0.0] C:\Users\Nikolay\.android\build-cache\438e953a7d5deceb92db6355528d3a980ea3499c\output\AndroidManifest.xml:20:5-44
+MERGED from [com.afollestad.material-dialogs:core:0.9.4.4] C:\Users\Nikolay\.android\build-cache\ce8fa84cff2e89168302a1e15a0000a0f4c1144f\output\AndroidManifest.xml:8:5-11:75
+MERGED from [com.android.support:support-v13:25.3.1] C:\Users\Nikolay\.android\build-cache\6531a18c01bf5c160ebe76837c72b0eb41f8b27e\output\AndroidManifest.xml:21:5-23:55
+MERGED from [com.android.support:recyclerview-v7:25.3.1] C:\Users\Nikolay\.android\build-cache\c42b0d0bb245ceeba404f4e78a06e623b825db2d\output\AndroidManifest.xml:20:5-43
+MERGED from [me.zhanghai.android.materialprogressbar:library:1.4.0] C:\Users\Nikolay\.android\build-cache\3556f9c012ec177dcd8cb56927198cf0ccf1c339\output\AndroidManifest.xml:12:5-14:41
+MERGED from [com.android.support:appcompat-v7:25.3.1] C:\Users\Nikolay\.android\build-cache\b0a6b91c6aea338f4f15e38c5711bc8aa89f1d11\output\AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:support-v4:25.3.1] C:\Users\Nikolay\.android\build-cache\7a21fc31c896b5fe6b6ab72665e424d6b01d6a16\output\AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-fragment:25.3.1] C:\Users\Nikolay\.android\build-cache\5386e3b172fa7e49fa3d37cebcc468db61c4269b\output\AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-media-compat:25.3.1] C:\Users\Nikolay\.android\build-cache\b70b7ac436a69fd7e5db00e9705186d8cf979e9e\output\AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-core-ui:25.3.1] C:\Users\Nikolay\.android\build-cache\fa756a8f628c5246bb2137b1354bf74ad3923b12\output\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-utils:25.3.1] C:\Users\Nikolay\.android\build-cache\9d2f21efa74c12fced10a704d37712fc9629a454\output\AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] C:\Users\Nikolay\.android\build-cache\ac6aaf862f19e1a023f052167b4bf8ecd713cf6b\output\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:25.3.1] C:\Users\Nikolay\.android\build-cache\84b878cb516eb9923f0b81cf6e64d8b5645646be\output\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:support-compat:25.3.1] C:\Users\Nikolay\.android\build-cache\50d356742aed0c461312175ad5063c6ce5eb17ec\output\AndroidManifest.xml:21:5-23:58
+	tools:overrideLibrary
+		ADDED from [com.android.support:design:25.0.0] C:\Users\Nikolay\.android\build-cache\76b09c881a55b44f92cb479a306423042483654c\output\AndroidManifest.xml:23:9-59
+	android:targetSdkVersion
+		INJECTED from D:\AndroidStudioProjects\Kursach_Separated_JSONPart\app\src\main\AndroidManifest.xml
+		INJECTED from D:\AndroidStudioProjects\Kursach_Separated_JSONPart\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from D:\AndroidStudioProjects\Kursach_Separated_JSONPart\app\src\main\AndroidManifest.xml
+		INJECTED from D:\AndroidStudioProjects\Kursach_Separated_JSONPart\app\src\main\AndroidManifest.xml
+supports-screens
+ADDED from [org.osmdroid:osmdroid-android:5.6.4] C:\Users\Nikolay\.android\build-cache\21be66594a1a657998a0fb0c11845cd5517e2101\output\AndroidManifest.xml:11:5-14:40
+	android:largeScreens
+		ADDED from [org.osmdroid:osmdroid-android:5.6.4] C:\Users\Nikolay\.android\build-cache\21be66594a1a657998a0fb0c11845cd5517e2101\output\AndroidManifest.xml:13:9-36
+	android:normalScreens
+		ADDED from [org.osmdroid:osmdroid-android:5.6.4] C:\Users\Nikolay\.android\build-cache\21be66594a1a657998a0fb0c11845cd5517e2101\output\AndroidManifest.xml:14:9-37
+	android:anyDensity
+		ADDED from [org.osmdroid:osmdroid-android:5.6.4] C:\Users\Nikolay\.android\build-cache\21be66594a1a657998a0fb0c11845cd5517e2101\output\AndroidManifest.xml:12:9-34
+uses-permission#android.permission.ACCESS_WIFI_STATE
+ADDED from [org.osmdroid:osmdroid-android:5.6.4] C:\Users\Nikolay\.android\build-cache\21be66594a1a657998a0fb0c11845cd5517e2101\output\AndroidManifest.xml:18:5-76
+	android:name
+		ADDED from [org.osmdroid:osmdroid-android:5.6.4] C:\Users\Nikolay\.android\build-cache\21be66594a1a657998a0fb0c11845cd5517e2101\output\AndroidManifest.xml:18:22-73
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from [org.osmdroid:osmdroid-android:5.6.4] C:\Users\Nikolay\.android\build-cache\21be66594a1a657998a0fb0c11845cd5517e2101\output\AndroidManifest.xml:19:5-79
+	android:name
+		ADDED from [org.osmdroid:osmdroid-android:5.6.4] C:\Users\Nikolay\.android\build-cache\21be66594a1a657998a0fb0c11845cd5517e2101\output\AndroidManifest.xml:19:22-76
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from [org.osmdroid:osmdroid-android:5.6.4] C:\Users\Nikolay\.android\build-cache\21be66594a1a657998a0fb0c11845cd5517e2101\output\AndroidManifest.xml:21:5-81
+	android:name
+		ADDED from [org.osmdroid:osmdroid-android:5.6.4] C:\Users\Nikolay\.android\build-cache\21be66594a1a657998a0fb0c11845cd5517e2101\output\AndroidManifest.xml:21:22-78
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+ADDED from [org.osmdroid:osmdroid-android:5.6.4] C:\Users\Nikolay\.android\build-cache\21be66594a1a657998a0fb0c11845cd5517e2101\output\AndroidManifest.xml:22:5-80
+IMPLIED from D:\AndroidStudioProjects\Kursach_Separated_JSONPart\app\src\main\AndroidManifest.xml:2:1-28:12 reason: org.osmdroid.library requested WRITE_EXTERNAL_STORAGE
+	android:name
+		ADDED from [org.osmdroid:osmdroid-android:5.6.4] C:\Users\Nikolay\.android\build-cache\21be66594a1a657998a0fb0c11845cd5517e2101\output\AndroidManifest.xml:22:22-77
+uses-feature#android.hardware.location.network
+ADDED from [org.osmdroid:osmdroid-android:5.6.4] C:\Users\Nikolay\.android\build-cache\21be66594a1a657998a0fb0c11845cd5517e2101\output\AndroidManifest.xml:24:5-26:36
+	android:required
+		ADDED from [org.osmdroid:osmdroid-android:5.6.4] C:\Users\Nikolay\.android\build-cache\21be66594a1a657998a0fb0c11845cd5517e2101\output\AndroidManifest.xml:26:9-33
+	android:name
+		ADDED from [org.osmdroid:osmdroid-android:5.6.4] C:\Users\Nikolay\.android\build-cache\21be66594a1a657998a0fb0c11845cd5517e2101\output\AndroidManifest.xml:25:9-57
+uses-feature#android.hardware.location.gps
+ADDED from [org.osmdroid:osmdroid-android:5.6.4] C:\Users\Nikolay\.android\build-cache\21be66594a1a657998a0fb0c11845cd5517e2101\output\AndroidManifest.xml:27:5-29:36
+	android:required
+		ADDED from [org.osmdroid:osmdroid-android:5.6.4] C:\Users\Nikolay\.android\build-cache\21be66594a1a657998a0fb0c11845cd5517e2101\output\AndroidManifest.xml:29:9-33
+	android:name
+		ADDED from [org.osmdroid:osmdroid-android:5.6.4] C:\Users\Nikolay\.android\build-cache\21be66594a1a657998a0fb0c11845cd5517e2101\output\AndroidManifest.xml:28:9-53
+uses-feature#android.hardware.telephony
+ADDED from [org.osmdroid:osmdroid-android:5.6.4] C:\Users\Nikolay\.android\build-cache\21be66594a1a657998a0fb0c11845cd5517e2101\output\AndroidManifest.xml:30:5-32:36
+	android:required
+		ADDED from [org.osmdroid:osmdroid-android:5.6.4] C:\Users\Nikolay\.android\build-cache\21be66594a1a657998a0fb0c11845cd5517e2101\output\AndroidManifest.xml:32:9-33
+	android:name
+		ADDED from [org.osmdroid:osmdroid-android:5.6.4] C:\Users\Nikolay\.android\build-cache\21be66594a1a657998a0fb0c11845cd5517e2101\output\AndroidManifest.xml:31:9-50
+uses-feature#android.hardware.wifi
+ADDED from [org.osmdroid:osmdroid-android:5.6.4] C:\Users\Nikolay\.android\build-cache\21be66594a1a657998a0fb0c11845cd5517e2101\output\AndroidManifest.xml:33:5-35:36
+	android:required
+		ADDED from [org.osmdroid:osmdroid-android:5.6.4] C:\Users\Nikolay\.android\build-cache\21be66594a1a657998a0fb0c11845cd5517e2101\output\AndroidManifest.xml:35:9-33
+	android:name
+		ADDED from [org.osmdroid:osmdroid-android:5.6.4] C:\Users\Nikolay\.android\build-cache\21be66594a1a657998a0fb0c11845cd5517e2101\output\AndroidManifest.xml:34:9-45
+meta-data#android.support.VERSION
+ADDED from [com.android.support:support-v13:25.3.1] C:\Users\Nikolay\.android\build-cache\6531a18c01bf5c160ebe76837c72b0eb41f8b27e\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:recyclerview-v7:25.3.1] C:\Users\Nikolay\.android\build-cache\c42b0d0bb245ceeba404f4e78a06e623b825db2d\output\AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:appcompat-v7:25.3.1] C:\Users\Nikolay\.android\build-cache\b0a6b91c6aea338f4f15e38c5711bc8aa89f1d11\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-v4:25.3.1] C:\Users\Nikolay\.android\build-cache\7a21fc31c896b5fe6b6ab72665e424d6b01d6a16\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-fragment:25.3.1] C:\Users\Nikolay\.android\build-cache\5386e3b172fa7e49fa3d37cebcc468db61c4269b\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-media-compat:25.3.1] C:\Users\Nikolay\.android\build-cache\b70b7ac436a69fd7e5db00e9705186d8cf979e9e\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-core-ui:25.3.1] C:\Users\Nikolay\.android\build-cache\fa756a8f628c5246bb2137b1354bf74ad3923b12\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-core-utils:25.3.1] C:\Users\Nikolay\.android\build-cache\9d2f21efa74c12fced10a704d37712fc9629a454\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] C:\Users\Nikolay\.android\build-cache\ac6aaf862f19e1a023f052167b4bf8ecd713cf6b\output\AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:support-vector-drawable:25.3.1] C:\Users\Nikolay\.android\build-cache\84b878cb516eb9923f0b81cf6e64d8b5645646be\output\AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:support-compat:25.3.1] C:\Users\Nikolay\.android\build-cache\50d356742aed0c461312175ad5063c6ce5eb17ec\output\AndroidManifest.xml:25:5-27:34
+	android:value
+		ADDED from [com.android.support:support-v13:25.3.1] C:\Users\Nikolay\.android\build-cache\6531a18c01bf5c160ebe76837c72b0eb41f8b27e\output\AndroidManifest.xml:27:9-31
+	android:name
+		ADDED from [com.android.support:support-v13:25.3.1] C:\Users\Nikolay\.android\build-cache\6531a18c01bf5c160ebe76837c72b0eb41f8b27e\output\AndroidManifest.xml:26:9-47
